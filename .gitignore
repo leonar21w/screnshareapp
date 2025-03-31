@@ -1,0 +1,16 @@
+# Xcode generated files
+build/
+DerivedData/
+
+# Xcode user data and temporary files
+xcuserdata/
+*.xcuserstate
+
+# Ignore workspace files except the essential content file (if you need to version control your workspace settings, adjust accordingly)
+*.xcworkspace
+!*.xcworkspace/contents.xcworkspacedata
+
+# Optionally, if you want to ignore all xcodeproj files (usually you keep these, so use with caution)
+# *.xcodeproj
+# !*.xcodeproj/project.pbxproj
+
